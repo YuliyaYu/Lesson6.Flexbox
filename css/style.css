@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d1d1c7;
+}
+
+h1{
+    text-align: center;
+    color: #0000e6;
+    font-weight: 700;
+    font-size: 36;
+}
+
+.flex-container5, .flex-container4{
+    background-color: #ffff99;
+    height: auto;
+    border-radius: 2px;
+    border: 1px solid #ffff00;
+    margin: 1%;
+    
+}
+
+.flexel{
+    background-color: #99ffcc;
+    border: 1px solid #99ff99;
+    height: 50px;
+    border-radius: 2px;
+    margin: 5px;
+    padding: 10px;
+    text-align: left;
+    color: #0000e6;
+    text-shadow: 1px 1px #000066;
+    font-weight: 700;
+    font-size: 24px;
+        
+}
+
+p{
+    padding-left: 25px;
+    color: #5c5c8a;
+    font-size: 12px;
+}
