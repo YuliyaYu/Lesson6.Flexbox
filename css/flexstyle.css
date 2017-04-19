@@ -1,4 +1,5 @@
-.flex-container5, .flex-container4{
+.flex-container5,
+.flex-container4 {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -6,39 +7,26 @@
     align-content: stretch;
 }
 
-.flexel{
-   flex: 1 500px;
+.fl1,
+.fl5,
+.fl6,
+.fl9 {
+    flex-grow: 100%;
 }
 
-.fl1{
-    flex: 1 100%;
-    
+.fl2,
+.fl4 {
+    flex-grow: 24%;
 }
-.fl2{
-    flex: 1 24%;
-    flex-basis: 24%;
+
+.fl3 {
+    flex-grow: 49%;
 }
-.fl3{
-    flex: 1 49%;
-    flex-basis: 49%;
+
+.fl7 {
+    flex-grow: 32%;
 }
-.fl4{
-    flex: 1 24%;
-    flex-basis: 24%;
+
+.fl8 {
+    flex-grow: 66%;
 }
-.fl5{
-    flex: 1 100%;
-}
-.fl6{
-    flex: 1 100%;
-}
-.fl7{
-    flex: 1 32%;
-    flex-basis: 32%;
-}
-.fl8{
-    flex: 1 66%;
-    flex-basis: 66%;
-}
-.fl9{
-    flex: 1 100%;
