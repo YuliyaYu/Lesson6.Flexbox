@@ -11,22 +11,22 @@
 .fl5,
 .fl6,
 .fl9 {
-    flex-grow: 100%;
+    flex-basis: 100%;
 }
 
 .fl2,
 .fl4 {
-    flex-grow: 24%;
+    flex-basis: 24.7%;
 }
 
 .fl3 {
-    flex-grow: 49%;
+    flex-basis: 49%;
 }
 
 .fl7 {
-    flex-grow: 32%;
+    flex-basis: 32.72%;
 }
 
 .fl8 {
-    flex-grow: 66%;
+    flex-basis: 66%;
 }
