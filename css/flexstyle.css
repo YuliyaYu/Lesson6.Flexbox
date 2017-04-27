@@ -1,32 +1,17 @@
-.flex-container5,
-.flex-container4 {
+.flex-container5, .flex-container4{
     display: flex;
-    align-items: center;
+    flex-direction: column;
     flex-wrap: wrap;
-    justify-content: space-around;
-    align-content: stretch;
 }
 
-.fl1,
-.fl5,
-.fl6,
-.fl9 {
-    flex-basis: 100%;
+.fl2, .fl7{
+    display: flex;
 }
 
-.fl2,
-.fl4 {
-    flex-basis: 24.7%;
+.fl2_, .fl4, .fl6, .fl7_, .fl9{
+    flex-grow: 1;
 }
 
-.fl3 {
-    flex-basis: 49%;
-}
-
-.fl7 {
-    flex-basis: 32.72%;
-}
-
-.fl8 {
-    flex-basis: 66%;
+.fl3, .fl8{
+    flex-grow: 2;
 }

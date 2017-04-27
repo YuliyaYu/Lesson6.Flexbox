@@ -6,7 +6,7 @@ body {
     background-color: #d1d1c7;
 }
 
-.flexel {
+.fl2_, .fl3, .fl4, .fl1, .fl5, .fl6, .fl7_, .fl8, .fl9{
     background-color: #99ffcc;
     border: 1px solid #99ff99;
     height: 50px;
@@ -18,7 +18,9 @@ body {
     text-shadow: 1px 1px #000066;
     font-weight: 700;
     font-size: 24px;
+    text-align: center;
 }
+
 
 h1 {
     text-align: center;
